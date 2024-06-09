@@ -19,7 +19,7 @@
 - Python 3.12。
 - 安裝所需的Python套件：
 ```
-pip install requests openpyxl lxml pandas pylightxl
+pip install urllib json requests openpyxl lxml pandas re pylightxl
 ```
 
 ### 步驟
