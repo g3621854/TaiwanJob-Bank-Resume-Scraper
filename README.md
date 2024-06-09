@@ -3,16 +3,16 @@
 
 ## 功能介紹
 - 518 人力爬取:
-`creat_request_vacancies_518(page)`: 發送職缺ID的POST請求。
-`creat_request_resume_518(base_resume)`: 發送應徵者資料的GET請求。
-`parse_518_page()`: 主要爬取程式，處理多頁職缺和應徵資料。
+* `creat_request_vacancies_518(page)`: 發送職缺ID的POST請求。
+* `creat_request_resume_518(base_resume)`: 發送應徵者資料的GET請求。
+* `parse_518_page()`: 主要爬取程式，處理多頁職缺和應徵資料。
 - 1111 人力爬取:
-`creat_request_vacancies_1111()`: 發送職缺ID的GET請求。
-`creat_request_resume_1111(base_resume)`: 發送應徵者資料的GET請求。
+* `creat_request_vacancies_1111()`: 發送職缺ID的GET請求。
+* `creat_request_resume_1111(base_resume)`: 發送應徵者資料的GET請求。
 - 小雞上工 人力爬取:
-`download_resume_chicken()`: 發送應徵者資料的POST請求並下載資料。
+* `download_resume_chicken()`: 發送應徵者資料的POST請求並下載資料。
 - yes123 人力爬取:
-`create_request_123(page)`: 創建職缺資料的POST請求。
+* `create_request_123(page)`: 創建職缺資料的POST請求。
 
 ## 安裝指南
 ### 前提條件
