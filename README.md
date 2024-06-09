@@ -36,3 +36,6 @@ pip install urllib json requests openpyxl lxml pandas re pylightxl
 - 爬取完成後,程式會將所有履歷資料整合到一個DataFrame中,並根據姓名和應徵日期欄位去除重複項。
 
 - 最終的整合結果將寫入到指定的Excel檔案中(預設為履歷格式_測試.xlsx)。每次執行程式都會將新的資料添加到現有的Excel檔案中。
+
+## 成果畫面
+![image](https://github.com/g3621854/TaiwanJob-Bank-Resume-Scraper/blob/main/%5B704x396%5D104_%E7%88%AC%E8%9F%B2%E5%B0%88%E6%A1%88_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F%201.jpg)
